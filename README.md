@@ -14,7 +14,7 @@ Obstacle Detection Robot for
 ## Screenshots
 
 #### Homepage
-![alt homepage](https://ankitverma30.github.io/Obstacle-Detection-Robot/Obstacle detection Robot.jpg)
+![alt homepage](Obstacle detection Robot.jpg)
 
 #### Admin Module
 ![alt homepage](https://ankitverma30.github.io/Student-Database-Management-System/Admin-Login.png)
